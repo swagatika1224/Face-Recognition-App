@@ -1,0 +1,10 @@
+body {
+background-color: blueviolet;
+text-align: center;
+}
+
+#camera {
+    border: 2px dashed black;
+    width: 350px;
+    height:300px;
+    }
